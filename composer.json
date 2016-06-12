@@ -1,0 +1,12 @@
+{
+    "name": "DB/DB",
+    "description": "PHP Mysqli lib",
+    "keywords": ["PHP", "Mysqli"],
+    "type": "library",
+    "require": {
+        "php": ">=5.3.0",
+    },
+    "autoload": {
+        "files": {"src/DB.php"}
+    }
+}
